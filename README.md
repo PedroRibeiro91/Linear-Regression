@@ -1,6 +1,3 @@
-# projectStatistics
-
-# In this project Ill have a database to which Ill apply some statistical method to make predictions on the data variables those that 
-# make sense dont predictions on
-
-# Some machine learning methods are also shown
+In this project a linear regression model was applied to a data set.
+The data set was downloaded from kaggle.
+A linear model was create to try and predict the selling price of cars
